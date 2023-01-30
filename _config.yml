@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "KEPCO_Digital_Boot_Camp"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Young"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "for class review"
   location         : "Somewhere"
   email            :
   links:
